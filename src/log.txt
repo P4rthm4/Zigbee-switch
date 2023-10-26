@@ -1,0 +1,290 @@
+I: IDENTIFY_MODE - button pressed has_changed
+
+
+
+I: Network left (leave type: 0)
+
+
+
+I: Started network rejoin procedure.
+
+
+
+I: button_state : 0
+
+
+
+ has_changed : 8
+
+
+
+I: No bulb found yet.
+
+
+
+I: Network steering was not successful (status: -1)
+
+
+
+I: Network steering was not successful (status: -1)
+
+
+
+I: Network steering was not successful (status: -1)
+
+
+
+I: Network steering was not successful (status: -1)
+
+
+
+I: Network steering was not successful (status: -1)
+
+
+
+I: Network steering was not successful (status: -1)
+
+
+
+I: Network steering was not successful (status: -1)
+
+
+
+I: Network rejoin procedure stopped as scheduled.
+
+
+
+I: button_state : 8
+
+
+
+ has_changed : 8
+
+
+
+I: No bulb found yet.
+
+
+
+I: Started network rejoin procedure.
+
+
+
+I: button_state : 0
+
+
+
+ has_changed : 8
+
+
+
+I: No bulb found yet.
+
+
+
+I: Joined network successfully (Extended PAN ID: dddddddddddddddd, PAN ID: 0x1a62)
+
+
+
+I: Network rejoin procedure stopped as NOT scheduled.
+
+
+
+I: find_light_bulb_alarm called
+
+
+
+I: find_light_bulb called
+
+
+
+I: calling find_light_bulb_cb
+
+
+
+I: find_light_bulb_cb called
+
+
+
+I: Found bulb addr: 0 ep: 1
+
+
+
+I: find_light_bulb_cb called
+
+
+
+I: Bulb not found, try again
+
+
+
+I: button_state : 1
+ has_changed : 1
+I: ON - button has_changed
+I: button_state pressed
+I: button_state : 0
+ has_changed : 1
+I: ON - button has_changed
+I: button_state released : calling light_switch_send_on_off function
+I: Send ON/OFF command: 1
+
+
+
+I: button_state : 2
+ has_changed : 2
+I: OFF - button has_changed
+I: button_state pressed
+I: button_state : 0
+ has_changed : 2
+I: OFF - button has_changed
+I: button_state released : calling light_switch_send_on_off function
+I: Send ON/OFF command: 0
+
+                                                                                           ^CI: find_light_bulb_cb called
+
+
+
+I: Bulb not found, try again
+
+
+
+I: button_state : 8
+
+
+
+ has_changed : 8
+
+
+
+I: IDENTIFY_MODE - button pressed has_changed
+
+
+
+I: button_state : 0
+
+
+
+ has_changed : 8
+
+
+
+I: calling start_identifying function has_changed
+
+
+
+I: start identifying function called
+
+
+
+I: Enter identify mode
+
+
+
+I: button_state : 8
+
+
+
+ has_changed : 8
+
+
+
+I: IDENTIFY_MODE - button pressed has_changed
+
+
+
+I: button_state : 0
+
+
+
+ has_changed : 8
+
+
+
+I: calling start_identifying function has_changed
+
+
+
+I: start identifying function called
+
+
+
+I: Cancel identify mode
+
+
+
+
+
+I: button_state : 1
+
+ has_changed : 1
+
+I: ON - button has_changed
+
+I: button_state pressed
+
+I: button_state : 0
+
+ has_changed : 1
+
+I: ON - button has_changed
+
+I: button_state released : calling light_switch_send_on_off function
+
+I: Send ON/OFF command: 1
+
+
+
+I: button_state : 2
+
+ has_changed : 2
+
+I: OFF - button has_changed
+
+I: button_state pressed
+
+I: button_state : 0
+
+ has_changed : 2
+
+I: OFF - button has_changed
+
+I: button_state released : calling light_switch_send_on_off function
+
+I: Send ON/OFF command: 0
+
+
+
+
+I: button_state : 8
+
+ has_changed : 8
+
+I: IDENTIFY_MODE - button pressed has_changed
+
+I: button_state : 0
+
+ has_changed : 8
+
+I: calling start_identifying function has_changed
+
+I: start identifying function called
+
+I: Enter identify mode
+
+
+
+I: button_state : 8
+
+ has_changed : 8
+
+I: IDENTIFY_MODE - button pressed has_changed
+
+I: button_state : 0
+
+ has_changed : 8
+
+I: calling start_identifying function has_changed
+
+I: start identifying function called
+
+I: Cancel identify mode

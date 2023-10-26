@@ -1,0 +1,11 @@
+zboss_nvram:
+  placement:
+    after: [app]
+    align: {start: 0x1000}
+  inside: [nonsecure_storage]
+  size: 0x4000
+zboss_product_config:
+  placement:
+    after: [zboss_nvram]
+  inside: [nonsecure_storage]
+  size: 0x1000
